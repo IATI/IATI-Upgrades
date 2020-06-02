@@ -31,7 +31,7 @@ Note: The current standard upgrade process will follow the widely-adopted `Seman
 Considerations
 --------------
 
-* For information about different versions of the **IATI Standard** see :doc:`../upgrades`
+* For information about different versions of the **IATI Standard** see :doc:`All versions <how-we-manage-the-standard/versions>`. 
 * Documentation on previous versions is freely available.
 * Suggestions for changes and enhancements across the Standard are accepted from all stakeholders.
 * Planned changes are advertised well in advance.
