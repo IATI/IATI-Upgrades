@@ -7,8 +7,7 @@ All Versions
 
    all-versions/*
 
-Links to all versions IATI Standard documentation are available below. This
-includes versions of the documentation, schemas and codelists.
+Links to all versions IATI Standard documentation are available below. This versions of the documentation, schemas and codelists.
 
 Current live versions
 ---------------------
@@ -59,4 +58,3 @@ A technical changelog is also available alongside the IATI schema: https://iatis
 Upgrade Processes
 ----------
 Version 2.03 and prior upgrades followed the `previous upgrade process <https://iatistandard.org/upgrades/all-versions/previous-process>`__.
-

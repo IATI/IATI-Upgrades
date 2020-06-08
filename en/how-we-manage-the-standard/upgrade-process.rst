@@ -56,7 +56,7 @@ Major and minor upgrades will be conducted in two distinct phases:
 
 Wherever possible, decisions on changes to the standard should be reached by consensus. This means an absence of active dissent amongst those involved in the consultation process. If consensus cannot be reached the matter will be referred to the Governing Board for its assistance in resolving the dispute. The Governing Board, taking note of advice from the TAG chair and the Technical Lead, may adjudicate on an unresolved dispute.
 
-**Timeline***
+**Timeline**
 
 The Governing Board will approve a timeline for each upgrade prepared by the technical team. The timeline will consist of the following phases:
 
