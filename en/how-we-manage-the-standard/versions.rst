@@ -1,4 +1,4 @@
-All Versions
+All versions
 ============
 
 .. toctree::

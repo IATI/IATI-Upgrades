@@ -12,9 +12,7 @@ The 2.02 decimal upgrade of the IATI standard took place during the autumn/winte
 
 Version 2.02 was released on Monday 7 December 2015.
 
-Details about the specific proposals and public consultations which formed part of the for 2.02 upgrade are listed on the `knowledge
-base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the `2.02 Decimal Upgrade
-Forum <http://support.iatistandard.org/forums/21251175-2-02-Decimal-Upgrade-Proposals>`__.
+Details about the specific proposals and public consultations which formed part of the for 2.02 upgrade are listed on the `knowledge base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the `2.02 Decimal Upgrade Forum <http://support.iatistandard.org/forums/21251175-2-02-Decimal-Upgrade-Proposals>`__.
 
 The full process and timetable followed for the 2.02 Decimal Upgrade is outlined below.
 

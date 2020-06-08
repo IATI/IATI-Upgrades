@@ -1,5 +1,5 @@
-Previous Upgrade Process
-========
+Previous upgrade process
+========================
 
 Over time the IATI Standard is upgraded, the changes to some or all of those parts of the standard are driven by the suggestions and experiences of the publishers and users of IATI data. The upgrade process below was used up to, and including, version 2.03 of the IATI standard.
 
@@ -20,7 +20,6 @@ Minor changes can be made without changing the version of the standard. They cov
 -  improvements to documentation
 
 Minor changes can be tracked through the `IATI GitHub <https://github.com/IATI>`__ account
-
 
 More significant changes to the standard are handled via upgrades. There are two types of upgrades - Decimal Upgrades and Integer Upgrades.
 
