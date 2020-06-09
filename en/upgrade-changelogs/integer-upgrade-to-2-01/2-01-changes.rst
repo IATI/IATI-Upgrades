@@ -33,7 +33,7 @@ Element: :doc:`contact-info/department </activity-standard/iati-activities/iati-
 (`discussion <http://support.iatistandard.org/entries/44571616-Organisational-unit-within-contact-details>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#new-elements>`__)
 
 .. list-table::
-   :widths: 15 20
+   :widths: 20 20
    :header-rows: 1
 
    * - 1.0x

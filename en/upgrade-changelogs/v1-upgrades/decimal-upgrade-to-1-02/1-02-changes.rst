@@ -1,4 +1,4 @@
-1.02 Changes
+1.02 changes
 ============
 
 Changes / Additions to IATI Standard for version 1.02
@@ -17,7 +17,7 @@ Where an element, attribute or codelist has changed, a statement has been append
 
 Detailed specifications on the changes to the standard are published on the `IATI wiki <http://wiki.iatistandard.org/standard/revision/1.02/changes_specification?s[]=1&s[]=02>`__.
 
-Documentation changes 
+Documentation changes
 ---------------------
 
 On the IATI Standard documentation, the navigation and page URL for the Activity Standard has been changed. Previous versions included a nesting of pages around facets not used within the standard (Identification, Basic Activity Information, etc). The Activity Standard is now organised in a flatter structure, for ease of navigation. Additionally, the URL pattern has been edited to reflect the exact term for each element. For example:

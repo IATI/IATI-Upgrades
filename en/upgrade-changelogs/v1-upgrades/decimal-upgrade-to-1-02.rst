@@ -7,17 +7,11 @@ Decimal Upgrade to 1.02
 
    decimal-upgrade-to-1-02/*
 
-The first decimal upgrade of the standard happened in December 2012. The
-process for achieving that is outlined below.
+The first decimal upgrade of the standard happened in December 2012. The process for achieving that is outlined below.
 
-Details about the specific changes are listed on the \ `knowledge
-base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the \ `First Decimal
-Upgrade
-Forum <http://support.iatistandard.org/forums/21131653-first-decimal-upgrade>`__.
+Details about the specific changes are listed on the \ `knowledge base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the \ `First Decimal Upgrade Forum <http://support.iatistandard.org/forums/21131653-first-decimal-upgrade>`__.
 
-Full proposals were worked up on the \ `Changes
-Specification <http://wiki.iatistandard.org/standard/revision/1.02/changes_specification>`__ page
-of the \ `wiki <http://wiki.iatistandard.org/>`__.
+Full proposals were worked up on the \ `Changes Specification <http://wiki.iatistandard.org/standard/revision/1.02/changes_specification>`__ page of the \ `wiki <http://wiki.iatistandard.org/>`__.
 
 +--------------------+--------------------+--------------------+--------------------+
 | IATI               | Community          | Timescale          | Due Date           |
@@ -90,4 +84,3 @@ of the \ `wiki <http://wiki.iatistandard.org/>`__.
 +--------------------+--------------------+--------------------+--------------------+
 | Changes go live    |                    |                    | 17 Dec             |
 +--------------------+--------------------+--------------------+--------------------+
-

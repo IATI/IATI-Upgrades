@@ -1,4 +1,4 @@
-1.05 Changelog
+1.05 changelog
 ^^^^^^^^^^^^^^
 
 Changes / Additions to IATI Standard for version 1.05
@@ -24,7 +24,7 @@ Element: :doc:`location/location-id </activity-standard/iati-activities/iati-act
 Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <https://github.com/IATI/IATI-Extra-Documentation/issues/205>`__)
 
 In 1.04:
- 
+
 .. list-table::
    :widths: 15 30
    :header-rows: 1
@@ -36,7 +36,7 @@ In 1.04:
 
 Description amended in 1.05:
 
-.. list-table:: 
+.. list-table::
    :widths: 20 40
    :header-rows: 1
 
@@ -75,7 +75,7 @@ Embedded codelist updates
 
 *Activity Status: New code*
 ```````````````````````````
-Codelist: :doc:`Activity Status </codelists/ActivityStatus>` 
+Codelist: :doc:`Activity Status </codelists/ActivityStatus>`
 (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
 .. list-table::
@@ -91,7 +91,7 @@ Codelist: :doc:`Activity Status </codelists/ActivityStatus>`
 
 *Description Type: New code*
 ````````````````````````````
-Codelist: :doc:`DescriptionType </codelists/DescriptionType>` 
+Codelist: :doc:`DescriptionType </codelists/DescriptionType>`
 (`discussion <http://support.iatistandard.org/entries/22922878-Description-type-extend-the-codelist>`__)
 
 .. list-table::
@@ -107,7 +107,7 @@ Codelist: :doc:`DescriptionType </codelists/DescriptionType>`
 
 *Document Category: New codes*
 ``````````````````````````````
-Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>` 
+Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>`
 (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
 
 .. list-table::
@@ -131,11 +131,11 @@ Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>`
      - (none)
    * - B15
      - General Terms and Conditions
-     - (none)     
+     - (none)
 
 *Related Activity Type: New code*
-`````````````````````````````````  
-Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>` 
+`````````````````````````````````
+Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>`
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 .. list-table::
@@ -151,7 +151,7 @@ Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>`
 
 *Related Activity Type: Amended code*
 `````````````````````````````````````
-Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>` 
+Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>`
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 In 1.04:
@@ -182,7 +182,7 @@ Name and description changed in 1.05:
 
 *Transaction Type: Amended code*
 ````````````````````````````````
-Codelist: :doc:`TransactionType </codelists/TransactionType>` 
+Codelist: :doc:`TransactionType </codelists/TransactionType>`
 (`discussion <http://support.iatistandard.org/entries/50777388-Description-For-Transcation-Type-Incoming-Funds-Is-Incorrect>`__)
 
 In 1.04:
@@ -197,7 +197,7 @@ In 1.04:
    * - IF
      - Incoming Funds
      - Funds received from an external funding source (eg a donor).
-     
+
 Description changed in 1.05:
 
 .. list-table::
@@ -210,10 +210,10 @@ Description changed in 1.05:
    * - IF
      - Incoming Funds
      - Funds received (whether from an external source or through internal accounting) for specific use on this activity.
-               
+
 *Vocabulary: New code*
 ``````````````````````
-Codelist: :doc:`Vocabulary </codelists/Vocabulary>` 
+Codelist: :doc:`Vocabulary </codelists/Vocabulary>`
 (`discussion <http://support.iatistandard.org/entries/22916773>`__)
 
 .. list-table::
@@ -224,10 +224,10 @@ Codelist: :doc:`Vocabulary </codelists/Vocabulary>`
      - Name
      - Description
    * - RO2
-     - Reporting Organisation (2)	
+     - Reporting Organisation (2)
      - Where reporting organisations have more than one vocabulary that they wish to reference.
-     
-     
+
+
 *Policy Marker: New code*
 `````````````````````````
 Codelist: :doc:`PolicyMarker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
@@ -278,12 +278,12 @@ Overview page: :doc:`Activity Standard - Dates Overview </activity-standard/over
    :header-rows: 1
 
    * - Page
-     - Additional guidance 
-   * - Activity Standard - Dates Overview.	 
+     - Additional guidance
+   * - Activity Standard - Dates Overview.
      - ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
-     
+
 *Activity Standard - Classifications Overview*
-``````````````````````````````````````````````    
+``````````````````````````````````````````````
 Overview page: :doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
@@ -291,14 +291,14 @@ Overview page: :doc:`Activity Standard - Classifications Overview </activity-sta
    :header-rows: 1
 
    * - Page
-     - Additional guidance 
-   * - Activity Standard - Classifications Overview	 
+     - Additional guidance
+   * - Activity Standard - Classifications Overview
      - If an activity is either wholly "tied" or "untied" it is recommended that the appropriate ``default-tied-status`` code is used / If an activity is "partially tied" it is recommended that the reported commitment/s are split into "tied" and "untied" amounts and ``tied-status`` is reported at ``transaction`` level. (NB that tied status should be reported for commitments only.)
-   * - Activity Standard - Classifications Overview	 
-     - Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health) 
+   * - Activity Standard - Classifications Overview
+     - Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health)
 
 Codelist pages
---------------     
+--------------
 
 *Policy Significance*
 `````````````````````
@@ -309,6 +309,6 @@ Codelist: :doc:`PolicySignificance </codelists/PolicySignificance>` (`discussion
    :header-rows: 1
 
    * - Page
-     - Additional guidance 
-   * - Policy Significance codelist 
+     - Additional guidance
+   * - Policy Significance codelist
      - Policy Significance code = 4 (Explicit primary objective) SHOULD ONLY be used in conjunction with :doc:`Policy Marker </codelists/PolicyMarker/>` code = 9 (Reproductive, Maternal, Newborn and Child Health)

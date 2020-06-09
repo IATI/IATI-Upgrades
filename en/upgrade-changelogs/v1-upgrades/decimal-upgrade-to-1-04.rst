@@ -7,14 +7,9 @@ Decimal Upgrade to 1.04
 
    decimal-upgrade-to-1-04/*
 
-The third decimal upgrade of the standard was proposed to occur
-during the winter of 2013, but faced delays that meant the timetable had
-to be revised. The process for doing so is outlined below.
+The third decimal upgrade of the standard was proposed to occur during the winter of 2013, but faced delays that meant the timetable had to be revised. The process for doing so is outlined below.
 
-Details about the specific changes are listed on the \ `knowledge
-base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the \ `1.04 Decimal
-Upgrade
-Forum <http://support.iatistandard.org/forums/22743317-1-04-Decimal-Upgrade>`__.
+Details about the specific changes are listed on the \ `knowledge base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the \ `1.04 Decimal Upgrade Forum <http://support.iatistandard.org/forums/22743317-1-04-Decimal-Upgrade>`__.
 
 +----------------+----------------+----------------+----------------+----------------+
 | IATI           | Community      | Timescale      | Due Date       | Now Due        |
@@ -125,4 +120,3 @@ Forum <http://support.iatistandard.org/forums/22743317-1-04-Decimal-Upgrade>`__.
 | Changes go     |                |                | 10 Mar 2014    | 5 May          |
 | live           |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+
-

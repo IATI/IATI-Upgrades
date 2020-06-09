@@ -1,4 +1,4 @@
-Location: Summary of changes in IATI Standard version 1.04
+Location: summary of changes in IATI Standard version 1.04
 ==========================================================
 
 **See also:**
@@ -31,7 +31,7 @@ However, in version 1.04 deprecated elements and attributes are NOT
 removed. This means data published to version 1.04 of the IATI Standard
 may still contain deprecated elements. Publishers may incorporate other
 changes introduced in version 1.04, without making specific changes to
-their location data elements. 
+their location data elements.
 
 However, for those publishers using the location element it is advised to read this guidance and attempt to update data accordingly.
 
@@ -52,13 +52,13 @@ guidance. Version 2.01 of the standard proposes language neutral use of
 codes, hence the guidance here is to utilise:
 
 .. code-block:: xml
-    
+
     <exactness code="1"/>
 
 rather than
 
 .. code-block:: xml
-    
+
     <exactness code="1">Exact</exactness>
 
 For this reason, this guidance note omits details on use of (text) names
@@ -166,7 +166,7 @@ definition and examples)
     -
 
   * - `name <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/name/>`__
-  
+
     -
 
     - Y
@@ -178,7 +178,7 @@ definition and examples)
     - <name>Location name</name>
 
   * -
-  
+
     - @xml:lang
 
     - Y
@@ -201,14 +201,14 @@ definition and examples)
 
       No change to element definition but the Standard now allows for two
       separate descriptions:
-      
+
       1 - a description of the location itself
-      
+
       2 - a (new) description of the activity taking place at the location.
-      
+
       See new element location/activity-description to check if the
       information provided here is still correct for the new definitions.
-      
+
     - <description>Location description</description>
 
   * -
@@ -232,19 +232,19 @@ definition and examples)
     - Y
 
     - Partially changed.
-      
+
       Changes to this element have been made to allow any number of
       administrative levels to be reported (as opposed to only two in versions
       up to 1.03) and for accurate encoding of these areas according to recognised
       vocabularies.
-      
+
       Where possible, it is encouraged to include information on every
       possible administrative level and vocabulary simultaneously.
 
     - <administrative level="1" code="1453782" vocabulary="G1" />
 
       example with multiple administrative elements:
-      
+
       <administrative vocabulary="GADM" level="1" code="8">Shinyanga</administrative>
       <administrative vocabulary="GADM" level="2" code="36">Kigoma Urban</administrative>
       <administrative vocabulary="GADM" level="3" code="771">Kigoma Bangwe</administrative>
@@ -259,10 +259,10 @@ definition and examples)
 
     - Deprecated. Should no longer be used.
 
-    - 
+    -
 
   * -
-  
+
     - @adm1
 
     - Y
@@ -299,7 +299,7 @@ definition and examples)
     -
 
   * -
-  
+
     - @level
 
     - N
@@ -311,7 +311,7 @@ definition and examples)
     -
 
   * -
-  
+
     - @vocabulary
 
     - N
@@ -326,7 +326,7 @@ definition and examples)
     -
 
   * -
-  
+
     - @xml:lang
 
     - N
@@ -347,7 +347,7 @@ definition and examples)
     - N
 
     - Deprecated. Should no longer be used.
-      
+
       To align the geocoding standard with the more generic
       `Geographic Markup Language <http://www.opengeospatial.org/standards/gml>`__
       (GML) the Coordinates element has been replaced by the new Location /
@@ -356,7 +356,7 @@ definition and examples)
     - n/a
 
   * -
-  
+
     - @latitude
 
     - Y
@@ -368,7 +368,7 @@ definition and examples)
     -
 
   * -
-  
+
     - @longitude
 
     - Y
@@ -380,7 +380,7 @@ definition and examples)
     -
 
   * -
-  
+
     - @precision
 
     - Y
@@ -400,7 +400,7 @@ definition and examples)
     - N
 
     - Deprecated. Should no longer be used.
-      
+
       The location/gazetteer-entry element has been subsumed into the
       location/location-id element which identifies both gazetteer and
       administrative area vocabularies and codes.
@@ -408,7 +408,7 @@ definition and examples)
     - n/a
 
   * -
-  
+
     - @gazeteer-ref
 
     - Y
@@ -421,7 +421,7 @@ definition and examples)
     -
 
   * -
-  
+
     - (text)
 
     - Y
@@ -480,7 +480,7 @@ definition and examples)
     - <location-id vocabulary="G1" code="1453782" />
 
   * -
-  
+
     - @vocabulary
 
     - N
@@ -494,7 +494,7 @@ definition and examples)
     -
 
   * -
-  
+
     - @code
 
     - N
@@ -522,7 +522,7 @@ definition and examples)
       place at the location</activity-description>
 
   * -
-  
+
     - (text)
 
     - N
@@ -547,7 +547,7 @@ definition and examples)
     - <location-reach code="1" />
 
   * -
-  
+
     - @code
 
     - N
@@ -580,7 +580,7 @@ definition and examples)
       </point>
 
   * -
-  
+
     - @srsName
 
     - N
@@ -594,7 +594,7 @@ definition and examples)
     -
 
   * - `pos <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/point/pos/>`__
-  
+
     -
 
     - N
@@ -627,7 +627,7 @@ definition and examples)
     - <exactness code="1"/>
 
   * -
-  
+
     - @code
 
     - N
@@ -656,7 +656,7 @@ definition and examples)
     - <location-class code="2"/>
 
   * -
-  
+
     - @code
 
     - N
@@ -684,7 +684,7 @@ definition and examples)
     - <feature-designation code="PRNQ"/>
 
   * -
-  
+
     - @code
 
     - N
@@ -708,7 +708,7 @@ XML Examples
     - Version 1.04
 
   * - .. code-block:: xml
-  
+
           <location>
               <name>Herat</name>
               <description>Location description</description>
@@ -718,9 +718,9 @@ XML Examples
               <location-type code="PPL" />
               <administrative country="AF">Afghanistan, Herat, Injil</administrative>
           </location>
-      
+
     - .. code-block:: xml
-    
+
           <location ref="AF-KAN">
               <location-id vocabulary="G1" code="1453782" />
               <name>Location name</name>
@@ -738,11 +738,11 @@ XML Examples
 
 
   * -
-      
+
     - Example multiple <administrative> elements:
 
       .. code-block:: xml
-      
+
           <!-GADM Administrative Areas->
           <administrative vocabulary="GADM" level="1"
           code="8">Shinyanga</administrative>
@@ -758,7 +758,7 @@ XML Examples
           Urban</administrative>
           <administrative vocabulary="GAUL" level="3"
           code="49196">Gungu</administrative>
-      
+
           <!-OSM Administrative Areas->
           <administrative vocabulary="OSM" level="5"
           code="1600842">Kigoma</administrative>

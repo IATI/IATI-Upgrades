@@ -1,4 +1,4 @@
-1.04 Changes
+1.04 changes
 ============
 
 Changes / Additions to IATI Standard for version 1.04
