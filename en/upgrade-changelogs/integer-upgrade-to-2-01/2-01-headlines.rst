@@ -54,7 +54,7 @@ The following "breaking" changes apply specifically to the **IATI Activity Stand
      - 1.0x
      - 2.01
    * - **Language Neutral Codelists** 
-     - The codes for Organisation role; Type of Activity Date; Transaction Type; Sector Vocabulary; Gazetteer Agency were aplha characters, derived from English language words.
+     - The codes for Organisation role; Type of Activity Date; Transaction Type; Sector Vocabulary; Gazetteer Agency were alpha characters, derived from English language words.
      - The codes for Organisation role; Type of Activity Date; Transaction Type; Sector Vocabulary; Gazetteer Agency have to be changed to numeric, `making them language neutral <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#language-neutral-codelists>`__.
 
 
