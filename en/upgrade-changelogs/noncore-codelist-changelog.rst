@@ -101,7 +101,7 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *BE-GTCF* (Au Greffe du Tribunal de Commerce Francophone de Bruxelles)
      - This was added via a request made by the community.
-     - See `Add Brussels Comercial Court as Registration Agency  <http://support.iatistandard.org/entries/108744443-Add-Brussels-Comercial-Court-as-Registration-Agency>`__ on the support forum.
+     - See `Add Brussels Commercial Court as Registration Agency  <http://support.iatistandard.org/entries/108744443-Add-Brussels-Comercial-Court-as-Registration-Agency>`__ on the support forum.
    * - 17th June 2016
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *PK-VSWA* (Pakistan  Voluntary Social Welfare Agency)
@@ -377,7 +377,7 @@ Updates to other non-core codelists
    * - 8th August 2018
      - :doc:`Currency </codelists/Currency>`
      - Updated the Currency codelist to reflect changes to the ISO Currency codelist as of 1st January 2018.
-     - Noteable changes are the new codes for the Belarussian Ruble, Ouguiya, Dobra and Zambian Kwacha. New codes have been added for these four, and previous codes have been withdrawn.
+     - Notable changes are the new codes for the Belarussian Ruble, Ouguiya, Dobra and Zambian Kwacha. New codes have been added for these four, and previous codes have been withdrawn.
      - See the discussion `here <https://discuss.iatistandard.org/t/updates-to-the-iso-currency-codelist/1424>`__
    * - 21st March 2018
      - :doc:`FlowType </codelists/FlowType>`
@@ -550,7 +550,7 @@ Updates to names/descriptions of other non-core codelists
    * - 19th July 2018
      - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
      - Change of URL for Code: 2-1, Name: Humanitarian Plan
-     - Changes made after confirmation from OCHA FTS that the codelist is alligned and up to date with the orginial source
+     - Changes made after confirmation from OCHA FTS that the codelist is alligned and up to date with the original source
      - See the relevant `Discuss <https://discuss.iatistandard.org/t/updated-url-for-the-humanitarian-plan-codelist/1396>`__ post
    * - 29th October 2015
      - :doc:`FlowType </codelists/FlowType>`
