@@ -92,8 +92,8 @@ New overview pages
 
 The following overview pages have been added:
 
-- :doc:`/activity-standard/overview/humanitarian-reporting`
-- :doc:`/activity-standard/overview/self-defined-vocabularies`
+- `Humanitarian reporting <http://reference.iatistandard.org/203/activity-standard/overview/humanitarian-reporting/>`__
+- `Seld-defined vocabularies <http://reference.iatistandard.org/203/activity-standard/overview/self-defined-vocabularies/>`__
 
 
 Amended and new documentation elsewhere on the reference site
@@ -119,15 +119,15 @@ New Codelists
 
 Embedded:
 
-- :doc:`/codelists/BudgetStatus` (`Discussion <http://support.iatistandard.org/entries/21150501-Budgets-and-tentativeness>`__)
+- `Budget status <http://reference.iatistandard.org/203/codelists/BudgetStatus/>`__ (`Discussion <http://support.iatistandard.org/entries/21150501-Budgets-and-tentativeness>`__)
 
 
 Non-Embedded:
 
-- :doc:`/codelists/HumanitarianScopeType` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
-- :doc:`/codelists/HumanitarianScopeVocabulary` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
-- :doc:`/codelists/IndicatorVocabulary` (`Discussion <http://support.iatistandard.org/entries/79784435-Results-Require-unambiguous-indicator-reference>`__)
-- :doc:`/codelists/CRSChannelCode` (`Discussion <http://support.iatistandard.org/entries/83678719-DAC-Channel-of-Delivery>`__)
+- `Humanitarians Scope Type <http://reference.iatistandard.org/203/codelists/HumanitarianScopeType/>`__ (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
+- `Humanitarian Scope Vocabulary <http://reference.iatistandard.org/203/codelists/HumanitarianScopeVocabulary/>`__ (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
+- `Indicator Vocabulary <http://reference.iatistandard.org/203/codelists/IndicatorVocabulary/>`__ (`Discussion <http://support.iatistandard.org/entries/79784435-Results-Require-unambiguous-indicator-reference>`__)
+- `CRSChannel Code <http://reference.iatistandard.org/203/codelists/CRSChannelCode/>`__ (`Discussion <http://support.iatistandard.org/entries/83678719-DAC-Channel-of-Delivery>`__)
 
 
 Updated Codelists
@@ -135,11 +135,11 @@ Updated Codelists
 
 Embedded:
 
-- Added code 11 (Incoming Commitments) to :doc:`/codelists/TransactionType` (`discussion <http://support.iatistandard.org/entries/82769745-Add-Incoming-Commitment-to-the-Transaction-Type-codelist>`__)
-- Added code 99 (Reporting Organisation) to :doc:`/codelists/RegionVocabulary` (`discussion <http://support.iatistandard.org/entries/82936169-Allow-Organisations-To-Use-Their-Own-Internally-Defined-Regions->`__)
-- Added codes 7 (SDG Goal), 8 (SDG Target), 9 (SDG Indicator), 10 (Humanitarian Global Clusters  (Inter-Agency Standing Committee)) to :doc:`/codelists/SectorVocabulary` (discussion `post 1 <http://support.iatistandard.org/entries/105792233-Make-sector-vocabulary-codelist-SDG-ready->`__ and `post 2  <http://support.iatistandard.org/entries/106937886-Humanitarian-Clusters>`__)
+- Added code 11 (Incoming Commitments) to `Transaction Type <http://reference.iatistandard.org/203/codelists/TransactionType/>`__ (`discussion <http://support.iatistandard.org/entries/82769745-Add-Incoming-Commitment-to-the-Transaction-Type-codelist>`__)
+- Added code 99 (Reporting Organisation) to `Region Vocabulary <http://reference.iatistandard.org/203/codelists/RegionVocabulary/>`__ (`discussion <http://support.iatistandard.org/entries/82936169-Allow-Organisations-To-Use-Their-Own-Internally-Defined-Regions->`__)
+- Added codes 7 (SDG Goal), 8 (SDG Target), 9 (SDG Indicator), 10 (Humanitarian Global Clusters (Inter-Agency Standing Committee)) to `Sector Vocabulary <http://reference.iatistandard.org/203/codelists/SectorVocabulary/>`__ (discussion `post 1 <http://support.iatistandard.org/entries/105792233-Make-sector-vocabulary-codelist-SDG-ready->`__ and `post 2  <http://support.iatistandard.org/entries/106937886-Humanitarian-Clusters>`__)
 
 
 Non-Embedded:
 
-- Added code '2.02' to :doc:`/codelists/Version`
+- Added code '2.02' to `Version <http://reference.iatistandard.org/203/codelists/Version/>`__
