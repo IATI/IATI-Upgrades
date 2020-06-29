@@ -100,3 +100,6 @@ Full proposals were worked up on the \ `Changes Specification <http://wiki.iati
 | Changes go     |                |                | 21 June        | 6 September    |
 | live           |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+
+
+.. meta::
+  :order: 2

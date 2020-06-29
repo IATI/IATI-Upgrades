@@ -32,3 +32,6 @@ At the IATI Members Assembly in July 2018, `it was agreed <https://iatistandard.
 How can I get more information and help?
 ----------------------------------------
 The IATI technical team will be able to answer your questions about this process. Please get in contact with us at `support@iatistandard.org <https://iatistandard.org/en/contact/>`__.
+
+.. meta::
+  :order: 4

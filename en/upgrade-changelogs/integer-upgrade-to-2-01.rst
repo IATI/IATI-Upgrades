@@ -43,3 +43,5 @@ The full process and timetable followed for the 2.01 Integer Upgrade is outlined
 | Go live                                                                                                                                                                                |  This period of grace between approval of the upgrade and go live is primarily to ensure that systems that use IATI data can make all necessary preparations and adjustments. | 8 weeks              |                             | 6th January 2015            |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+-----------------------------+-----------------------------+
 
+.. meta::
+  :order: 3

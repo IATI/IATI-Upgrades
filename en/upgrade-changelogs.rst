@@ -17,3 +17,6 @@ Use the below pages to find the details and timelines for all IATI upgrades to d
 - :doc:`Noncore codelist changelog <upgrade-changelog/noncore-codelist-changelog>`
 
 For more information on upgrade processes see :doc:`How we manage the Standard <how-we-manage-the-standard>`.
+
+.. meta::
+  :order: 1

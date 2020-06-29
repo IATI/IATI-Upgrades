@@ -35,3 +35,6 @@ Codelist changes: There are different types of codelist changes. Details of how 
 How to get involved and suggest changes: Any member of the IATI community can make a proposal (via `IATI Discuss <https://discuss.iatistandard.org/c/standard-management>`__). Suggestions for changes and enhancements across the Standard are accepted from all stakeholders. Each proposal will be assigned to the relevant category under Standard Management. The forums allow for a public exchange on the merits of the proposals to take place.
 
 If you have any questions about the standard management processes, please do get in touch by emailing our Helpdesk (support@iatistandard.org).
+
+.. meta::
+  :order: 0

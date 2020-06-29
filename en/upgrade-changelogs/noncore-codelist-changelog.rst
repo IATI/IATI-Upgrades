@@ -577,3 +577,6 @@ Updates to names/descriptions of other non-core codelists
      - Change name for *998* (Bilateral, ex-post reporting on NGOs’ activities funded through core contributions)
      - This was added as part of the 2.01 upgrade in order to synchronise the Region codes published by the OECD DAC.  Name changed from  "Bilateral, unspecified" to "Developing countries, unspecified".
      - See `Region codelist out of date with DAC CRS source <http://support.iatistandard.org/entries/95684423-Region-codelist-out-of-date-with-DAC-CRS-source>`__ on the support forum.
+
+.. meta::
+  :order: 0

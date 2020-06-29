@@ -96,3 +96,6 @@ The full process and timetable followed for the 2.02 Decimal Upgrade is outlined
 | Approval     | Version 2.02   |                |                | 7 December     |
 | & Go live    | goes live.     |                |                | 2015           |
 +--------------+----------------+----------------+----------------+----------------+
+
+.. meta::
+  :order: 2
