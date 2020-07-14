@@ -39,22 +39,22 @@ Changelogs
 ----------
 Changelogs are available for all versions of the IATI Standard
 
-- :doc:`2.03 changes <upgrade-changelogs/decimal-upgrade-to-2-03/2-03-changes>`
+- :doc:`2.03 changes </upgrade-changelogs/decimal-upgrade-to-2-03/2-03-changes>`
 
-- :doc:`2.02 changes <upgrade-changelogs/decimal-upgrade-to-2-02/2-02-changes>`
+- :doc:`2.02 changes </upgrade-changelogs/decimal-upgrade-to-2-02/2-02-changes>`
 
-- :doc:`2.01 changes <upgrade-changelogs/integer-upgrade-to-2-01/2-01-changes>`
+- :doc:`2.01 changes </upgrade-changelogs/integer-upgrade-to-2-01/2-01-changes>`
 
-- :doc:`1.05 changes <upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-05/1-05-changes>`
+- :doc:`1.05 changes </upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-05/1-05-changes>`
 
-- :doc:`1.04 changes <upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-04/1-04-changes>`
+- :doc:`1.04 changes </upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-04/1-04-changes>`
 
-- :doc:`1.03 changes <upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-03/1-03-changes>`
+- :doc:`1.03 changes </upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-03/1-03-changes>`
 
-- :doc:`1.02 changes <upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-02/1-02-changes>`
+- :doc:`1.02 changes </upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-02/1-02-changes>`
 
 A technical changelog is also available alongside the IATI schema: https://iatistandard.org/schema/
 
 Upgrade Processes
 -----------------
-Version 2.03 and prior upgrades followed the :doc:`previous upgrade process <how-we-manage-the-standard/versions>`.
+Version 2.03 and prior upgrades followed the :doc:`previous upgrade process </how-we-manage-the-standard/versions>`.
