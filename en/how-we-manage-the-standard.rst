@@ -20,7 +20,7 @@ The standard is a collection of XML schema, core codelists, non-core codelists, 
 
 Changes to some or all of those parts of the standard will be driven by the suggestions and experiences of the publishers and users of IATI data. Depending on what changes are being proposed, the following processes will be followed:
 
-Upgrade process:
+**Upgrade process:**
 
 - Minor (previously decimal) upgrades can be initiated by the `Governing Board <https://iatistandard.org/en/about/governance/who-runs-iati/>`__, following advice from the TAG Chair and the Technical Lead.
 - Major upgrades can be initiated by the `Members’ Assembly <https://iatistandard.org/en/about/join-iati/members-assembly/>`__, following the advice from the Governing Board.

@@ -9,7 +9,7 @@ Decimal Upgrade to 1.05
 
 Version 1.05 of the **IATI Standard** was released on 6th October 2014.
 
-Details about the specific changes are listed in the :doc:`1.05 Changelog </upgrades/decimal-upgrade-to-1-05/1-05-changelog>`.
+Details about the specific changes are listed in the :doc:`1.05 Changelog <upgrade-changelogs/v1-upgrades/decimal-upgrade-to-1-05/1-05-changes>`.
 
 | Discussions on changes can be found in the \ `1.05 Decimal Upgrade Forum <http://support.iatistandard.org/forums/22895158-1-05-Decimal-Upgrade>`__.
 
