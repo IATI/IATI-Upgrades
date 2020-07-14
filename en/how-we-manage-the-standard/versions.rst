@@ -21,7 +21,7 @@ The current live versions are:
 - 2.01: https://iatistandard.org/201/
 
 Deprecated versions
------------------
+-------------------
 These versions of the IATI Standard are deprecated and no longer supported for publishing. Data is still available for consultation.
 
 - 1.05: https://iatistandard.org/105/
@@ -56,5 +56,5 @@ Changelogs are available for all versions of the IATI Standard
 A technical changelog is also available alongside the IATI schema: https://iatistandard.org/schema/
 
 Upgrade Processes
-----------
+-----------------
 Version 2.03 and prior upgrades followed the :doc:`previous upgrade process <how-we-manage-the-standard/versions>`.
