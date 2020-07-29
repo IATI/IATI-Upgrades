@@ -16,12 +16,12 @@ Activities schema
 
 *Location/Location ID: Updated description text*
 ````````````````````````````````````````````````
-Element: :doc:`location/location-id </activity-standard/iati-activities/iati-activity/location/location-id>` (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
+Element: `location/location-id </en/iati-standard/203/activity-standard/iati-activities/iati-activity/location/location-id>`_ (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
 
 
 *Planned Disbursement: Updated description text*
 ````````````````````````````````````````````````
-Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <https://github.com/IATI/IATI-Extra-Documentation/issues/205>`__)
+Element: `planned-disbursement </en/iati-standard/203/activity-standard/iati-activities/iati-activity/planned-disbursement>`_ (`discussion  <https://github.com/IATI/IATI-Extra-Documentation/issues/205>`__)
 
 In 1.04:
 
@@ -75,7 +75,7 @@ Embedded codelist updates
 
 *Activity Status: New code*
 ```````````````````````````
-Codelist: :doc:`Activity Status </codelists/ActivityStatus>`
+Codelist: `Activity Status </en/iati-standard/203/codelists/ActivityStatus>`_
 (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
 .. list-table::
@@ -91,7 +91,7 @@ Codelist: :doc:`Activity Status </codelists/ActivityStatus>`
 
 *Description Type: New code*
 ````````````````````````````
-Codelist: :doc:`DescriptionType </codelists/DescriptionType>`
+Codelist: `DescriptionType </en/iati-standard/203/codelists/DescriptionType>`_
 (`discussion <http://support.iatistandard.org/entries/22922878-Description-type-extend-the-codelist>`__)
 
 .. list-table::
@@ -107,7 +107,7 @@ Codelist: :doc:`DescriptionType </codelists/DescriptionType>`
 
 *Document Category: New codes*
 ``````````````````````````````
-Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>`
+Codelist:  `DocumentCategory </en/iati-standard/203/codelists/DocumentCategory>`_
 (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
 
 .. list-table::
@@ -135,7 +135,7 @@ Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>`
 
 *Related Activity Type: New code*
 `````````````````````````````````
-Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>`
+Codelist: `RelatedActivityType </en/iati-standard/203/codelists/RelatedActivityType>`_
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 .. list-table::
@@ -151,7 +151,7 @@ Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>`
 
 *Related Activity Type: Amended code*
 `````````````````````````````````````
-Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>`
+Codelist: `RelatedActivityType </en/iati-standard/203/codelists/RelatedActivityType>`_
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 In 1.04:
@@ -182,7 +182,7 @@ Name and description changed in 1.05:
 
 *Transaction Type: Amended code*
 ````````````````````````````````
-Codelist: :doc:`TransactionType </codelists/TransactionType>`
+Codelist: `TransactionType </en/iati-standard/203/codelists/TransactionType>`_
 (`discussion <http://support.iatistandard.org/entries/50777388-Description-For-Transcation-Type-Incoming-Funds-Is-Incorrect>`__)
 
 In 1.04:
@@ -213,7 +213,7 @@ Description changed in 1.05:
 
 *Vocabulary: New code*
 ``````````````````````
-Codelist: :doc:`Vocabulary </codelists/Vocabulary>`
+Codelist: `Vocabulary </en/iati-standard/203/codelists/Vocabulary>`_
 (`discussion <http://support.iatistandard.org/entries/22916773>`__)
 
 .. list-table::
@@ -230,7 +230,7 @@ Codelist: :doc:`Vocabulary </codelists/Vocabulary>`
 
 *Policy Marker: New code*
 `````````````````````````
-Codelist: :doc:`PolicyMarker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist: `PolicyMarker </en/iati-standard/203/codelists/PolicyMarker>`_ (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 15 20 30
@@ -248,7 +248,7 @@ Non-embedded codelist updates
 
 *Policy Significance: New code*
 ```````````````````````````````
-Codelist: :doc:`PolicySignificance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist: `PolicySignificance </en/iati-standard/203/codelists/PolicySignificance>`_ (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 15 20 30
@@ -271,7 +271,7 @@ Overview pages
 
 *Activity Standard - Dates Overview*
 ````````````````````````````````````
-Overview page: :doc:`Activity Standard - Dates Overview </activity-standard/overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
+Overview page: `Activity Standard - Dates Overview </en/iati-standard/203/activity-standard/overview/dates/>`_ (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
 .. list-table::
    :widths: 20 40
@@ -284,7 +284,7 @@ Overview page: :doc:`Activity Standard - Dates Overview </activity-standard/over
 
 *Activity Standard - Classifications Overview*
 ``````````````````````````````````````````````
-Overview page: :doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Overview page: `Activity Standard - Classifications Overview </en/iati-standard/203/activity-standard/overview/classifications/>`_ (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 20 40
@@ -302,7 +302,7 @@ Codelist pages
 
 *Policy Significance*
 `````````````````````
-Codelist: :doc:`PolicySignificance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist: `PolicySignificance </en/iati-standard/203/codelists/PolicySignificance>`_ (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 20 40
@@ -311,4 +311,4 @@ Codelist: :doc:`PolicySignificance </codelists/PolicySignificance>` (`discussion
    * - Page
      - Additional guidance
    * - Policy Significance codelist
-     - Policy Significance code = 4 (Explicit primary objective) SHOULD ONLY be used in conjunction with :doc:`Policy Marker </codelists/PolicyMarker/>` code = 9 (Reproductive, Maternal, Newborn and Child Health)
+     - Policy Significance code = 4 (Explicit primary objective) SHOULD ONLY be used in conjunction with `Policy Marker </en/iati-standard/203/codelists/PolicyMarker/>`_ code = 9 (Reproductive, Maternal, Newborn and Child Health)
