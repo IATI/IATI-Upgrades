@@ -27,7 +27,7 @@ IATI organisation identifiers should:
 Specifically, a valid organisation identifier:
 
 * Must start with a valid agency prefix
-* The agency prefix MUST be a valid code in the `IATI OrganisationRegistrationAgency codelist </en/iati-standard/203/codelists/OrganisationRegistrationAgency/>`_
+* The agency prefix MUST be a valid code in the `IATI OrganisationRegistrationAgency codelist </en/iati-standard/201/codelists/OrganisationRegistrationAgency/>`_
 * MUST only contain alphanumeric characters and hyphen, underscore, colon or period
 
 IATI activity identifiers
@@ -41,7 +41,7 @@ Therefore when a reporting organisation's identifier changes, the  previous repo
 
 This will allow data users to continue to link activities to the organisation that reported them (because activity identifiers are constructed using the organisation identifier as part of the string, and once reported, an activity should maintain its original identifier).
 
-In version 2.01 of the IATI Standard, therefore, we need a way to record the previous organisation identifier when this changes. We can do this using the `other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_ element.
+In version 2.01 of the IATI Standard, therefore, we need a way to record the previous organisation identifier when this changes. We can do this using the `other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_ element.
 
 For information on the changes to that element see: :ref:`Update to other-identifier element <#update-to-other-identifier-element>`
 
@@ -59,20 +59,20 @@ In addition:
 
   - It MUST be globally unique among all activities published through the IATI Registry
   - Once an activity has been reported to IATI its identifier MUST NOT be changed in subsequent updates,
-  - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/\@ref OR a previous reporting-org identifier reported in `other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_
+  - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/\@ref OR a previous reporting-org identifier reported in `other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_
   - The identifier MUST only contain alphanumeric characters and hyphen, underscore, colon or period
 
 **What is the change?**
 
 The biggest change is that all organisations must have an Organisation
-Identifier that is prefixed with a valid code on the `IATI OrganisationRegistrationAgency codelist </en/iati-standard/203/codelists/OrganisationRegistrationAgency/>`_
+Identifier that is prefixed with a valid code on the `IATI OrganisationRegistrationAgency codelist </en/iati-standard/201/codelists/OrganisationRegistrationAgency/>`_
 
 This means that a number of publishers will have to:
 
 * Change their organisation identifier
-* Continue to report existing activities using the same activity identifier, but also report their previous Organisation Identifier using the `other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_ element.
+* Continue to report existing activities using the same activity identifier, but also report their previous Organisation Identifier using the `other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_ element.
 
-In addition, if they wish to use IATI as their registration agency, they will need to agree their new identifier on the `IATIOrganisationIdentifier codelist </en/iati-standard/203/codelists/IATIOrganisationIdentifier/>`_
+In addition, if they wish to use IATI as their registration agency, they will need to agree their new identifier on the `IATIOrganisationIdentifier codelist </en/iati-standard/201/codelists/IATIOrganisationIdentifier/>`_
 
 Wherever \@ref is used to talk about organisations in the standard, those references must be a valid organisation identifier (as defined above).
 
@@ -101,9 +101,9 @@ In version 2.01 of the IATI Standard the element has been re-constructed
  - New attributes other-identifier/\@type and other-identifier/\@ref are added
  - The \@type attribute is used to specify the type of identifier being given.
  - The \@ref attribute is used for the identifier itself.
- - There is a child element `other-identifier/owner-org </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/owner-org/>`_ where information about the organisation that crafted the identifier can be given. This field is set up so that multilingual text can be supplied,
+ - There is a child element `other-identifier/owner-org </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/owner-org/>`_ where information about the organisation that crafted the identifier can be given. This field is set up so that multilingual text can be supplied,
 
-In version 2.01 of the IATI Standard a new `OtherIdentifierType </en/iati-standard/203/codelists/OtherIdentifierType/>`_ codelist is introduced.
+In version 2.01 of the IATI Standard a new `OtherIdentifierType </en/iati-standard/201/codelists/OtherIdentifierType/>`_ codelist is introduced.
 
 **Where is this applicable?**
 
@@ -114,10 +114,10 @@ In the Activity schema
 This change is in part to be able to deal with organisations changing their organisation identifiers. Because an iati-identifier needs to be unique and (once reported to IATI) will never change, and because it is constructed using an organisation identifier, when organisation identifiers change, data users still need to be able to relate activities to organisations.
 
 To solve this, a previous reporting-org identifier can be reported in the
-`other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_ element. This then allows us to require that an iati-identifier must be prefixed with:
+`other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_ element. This then allows us to require that an iati-identifier must be prefixed with:
 
 -  EITHER the organisation-identifier found in reporting-org/\@ref
--  OR a previous reporting-org identifier reported in `other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_
+-  OR a previous reporting-org identifier reported in `other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_
 
 For more information see:
 `Organisation and Activity Identifiers <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ proposal on the support forum.
@@ -127,12 +127,12 @@ constructed, and the entire element has been re-constructed.
 
 **Example**
 
-See: `other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_
+See: `other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_
 
 **What happens if we do not do this?**
 
 - Anyone reporting other-identifier in versions 1.x of the IATI Standard will need to reconstruct the way they report the data. They can continue to report the same data, but just need to reformat it.
-- Data users should be aware that parsing `other-identifier </en/iati-standard/203/activity-standard/iati-activities/iati-activity/other-identifier/>`_ is different in 2.01.
+- Data users should be aware that parsing `other-identifier </en/iati-standard/201/activity-standard/iati-activities/iati-activity/other-identifier/>`_ is different in 2.01.
 - Data publishers may take advantage of the opportunities to report other types of identifier that were not previously available to them.
 - Data may fail validation against the relevant 2.01 schema if the changes are not taken into consideration.
 
@@ -166,7 +166,7 @@ In both the Organisation and Activity Standards
 
 Element order can be found by:
 
--  `inspecting the schema directly </en/iati-standard/203/schema/>`_
+-  `inspecting the schema directly </en/iati-standard/201/schema/>`_
 
 Or via our GitHub repository:
 
@@ -290,7 +290,7 @@ used.
 for discussion go to
 `Modify budget/period-start and budget/period-end : make mandatory <http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory>`__ on the support forum.
 
-In addition, when other non-mandatory elements are used, the schema may dictate whether or not child elements must be present, the number of times they may occur, and the presence of attributes. You can find the detail in the `relevant schema documents </en/iati-standard/203/schema/>`_
+In addition, when other non-mandatory elements are used, the schema may dictate whether or not child elements must be present, the number of times they may occur, and the presence of attributes. You can find the detail in the `relevant schema documents </en/iati-standard/201/schema/>`_
 
 The 'occurs' column of the `standard overview table <http://iatistandard.org/201/activity-standard/summary-table/>`__ also indicates where both elements and attributes are required, and how often they may occur.
 
@@ -312,12 +312,12 @@ mandatory by the schema.
 
 Each Organisation record MUST contain:
 
--  a valid organisation identifier;  (element (`organisation-identifier </en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`_) presence tested by schema)
--  a name; (element (`name/narrative </en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/name/narrative/>`_) presence tested by schema)
--  a valid reporting organisation identifier (element (`reporting-org </en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_)
+-  a valid organisation identifier;  (element (`organisation-identifier </en/iati-standard/201/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`_) presence tested by schema)
+-  a name; (element (`name/narrative </en/iati-standard/201/organisation-standard/iati-organisations/iati-organisation/name/narrative/>`_) presence tested by schema)
+-  a valid reporting organisation identifier (element (`reporting-org </en/iati-standard/201/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`_)
    presence tested by schema - validity could be tested by software)
 
-In addition, when other non-mandatory elements are used, the schema may dictate whether or not child elements must be present, the number of times they may occur, and the presence of attributes.  You can find the detail in the relevant `schema documents </en/iati-standard/203/schema/>`_.
+In addition, when other non-mandatory elements are used, the schema may dictate whether or not child elements must be present, the number of times they may occur, and the presence of attributes.  You can find the detail in the relevant `schema documents </en/iati-standard/201/schema/>`_.
 
 The 'occurs' column of the `standard overview table <http://iatistandard.org/201/organisation-standard/summary-table/>`__ also indicates where both elements and attributes are required, and how often they may occur.
 
@@ -473,8 +473,8 @@ in 2.01
 
 Examples of how this change works can be seen on (for example):
 
--  `activity title </en/iati-standard/203/activity-standard/iati-activities/iati-activity/title/>`_
--  `organisation name </en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/name/>`_
+-  `activity title </en/iati-standard/201/activity-standard/iati-activities/iati-activity/title/>`_
+-  `organisation name </en/iati-standard/201/organisation-standard/iati-organisations/iati-organisation/name/>`_
 
 **What happens if we do not do this?**
 
@@ -504,8 +504,8 @@ For a full list of elements where this now applies, see: Including nested, multi
 
 Examples of how this change works can be seen on (for example):
 
--  `activity title </en/iati-standard/203/activity-standard/iati-activities/iati-activity/title/>`_
--  `organisation name </en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/name/>`_
+-  `activity title </en/iati-standard/201/activity-standard/iati-activities/iati-activity/title/>`_
+-  `organisation name </en/iati-standard/201/organisation-standard/iati-organisations/iati-organisation/name/>`_
 
 **What happens if we do not do this?**
 
@@ -579,7 +579,7 @@ To declare a recipient country of Kosovo, both of these are acceptable:
 
   <recipient-country code="XK" />
 
-Here, a lookup against the relevant codelist (`Country </en/iati-standard/203/codelists/Country/>`_)
+Here, a lookup against the relevant codelist (`Country </en/iati-standard/201/codelists/Country/>`_)
    would return a country name of 'Kosovo'
 
 If you prefer to declare a different name that differs from the ISO 3166-1 part of the ISO 3166 standard  (e.g. Kosovo (As per UNSCR 1244)) then do this:
@@ -786,8 +786,8 @@ countries at BOTH activity and transaction level
 
 See:
 
--  `Country </en/iati-standard/203/activity-standard/iati-activities/iati-activity/recipient-country/>`_
--  `Region </en/iati-standard/203/activity-standard/iati-activities/iati-activity/recipient-region/>`_
+-  `Country </en/iati-standard/201/activity-standard/iati-activities/iati-activity/recipient-country/>`_
+-  `Region </en/iati-standard/201/activity-standard/iati-activities/iati-activity/recipient-region/>`_
 
 **See also**
 
@@ -895,8 +895,8 @@ datetimes:
 
 Examples of how this change works can be seen on (for example):
 
--  -  `<Activity standard - activity date </en/iati-standard/203/activity-standard/iati-activities/iati-activity/activity-date/>`_
--  `<Organisation standard - period start </en/iati-standard/203/organisation-standard/iati-organisations/iati-organisation/total-budget/period-start/>`_
+-  -  `<Activity standard - activity date </en/iati-standard/201/activity-standard/iati-activities/iati-activity/activity-date/>`_
+-  `<Organisation standard - period start </en/iati-standard/201/organisation-standard/iati-organisations/iati-organisation/total-budget/period-start/>`_
 
 **What happens if we do not do this?**
 
