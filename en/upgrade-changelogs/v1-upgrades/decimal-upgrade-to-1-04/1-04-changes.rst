@@ -42,7 +42,7 @@ Activities schema
 Codelist Changes
 ----------------
 
-In 1.04 the idea of Embedded and Non-Embedded codelists was introduced. See `codelist-management </en/iati-standard/104/codelists/codelist-management>`_ for more information.
+In 1.04 the idea of Embedded and Non-Embedded codelists was introduced. See `codelist-management </en/iati-standard/upgrades/how-we-manage-the-standard/codelist-management/>`_ for more information.
 
 A `codelist mapping file <https://github.com/IATI/IATI-Codelists/blob/version-1.04/mapping.xml>`__ describing the mapping between codelists and xml elements, was introduced. (`discussion <http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas>`__)
 
