@@ -98,60 +98,60 @@ Embedded to Non-Embedded:
 
 Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded (`#114 <https://github.com/IATI/IATI-Codelists/issues/114>`__) (`Discussion link <https://discuss.iatistandard.org/t/redefine-selected-codelists-as-non-embedded-included-2-03/854>`__):
 
--	:doc:`/codelists/ActivityScope`
--	:doc:`/codelists/BudgetIdentifier`
--	:doc:`/codelists/BudgetIdentifierSector-category`
--	:doc:`/codelists/BudgetIdentifierSector`
--	:doc:`/codelists/BudgetIdentifierVocabulary`
--	:doc:`/codelists/CRSAddOtherFlags`
--	:doc:`/codelists/ConditionType`
--	:doc:`/codelists/ContactType`
--	:doc:`/codelists/DescriptionType`
--	:doc:`/codelists/DisbursementChannel`
--	:doc:`/codelists/DocumentCategory-category`
--	:doc:`/codelists/GeographicExactness`
--	:doc:`/codelists/GeographicLocationClass`
--	:doc:`/codelists/GeographicLocationReach`
--	:doc:`/codelists/GeographicVocabulary`
--	:doc:`/codelists/GeographicalPrecision`
--	:doc:`/codelists/IndicatorMeasure`
--	:doc:`/codelists/LoanRepaymentPeriod`
--	:doc:`/codelists/LoanRepaymentType`
--	:doc:`/codelists/OrganisationType`
--	:doc:`/codelists/OtherIdentifierType`
--	:doc:`/codelists/PolicyMarker`
--	:doc:`/codelists/PolicyMarkerVocabulary`
--	:doc:`/codelists/PublisherType`
--	:doc:`/codelists/RegionVocabulary`
--	:doc:`/codelists/ResultType`
--	:doc:`/codelists/SectorVocabulary`
--	:doc:`/codelists/TiedStatus`
--	:doc:`/codelists/VerificationStatus`
+-	`ActivityScope </en/iati-standard/203/codelists/ActivityScope>`_
+-	`BudgetIdentifier </en/iati-standard/203/codelists/BudgetIdentifier>`_
+-	`BudgetIdentifierSector-category </en/iati-standard/203/codelists/BudgetIdentifierSector-category>`_
+-	`BudgetIdentifierSector </en/iati-standard/203/codelists/BudgetIdentifierSector>`_
+-	`BudgetIdentifierVocabulary </en/iati-standard/203/codelists/BudgetIdentifierVocabulary>`_
+-	`CRSAddOtherFlags </en/iati-standard/203/codelists/CRSAddOtherFlags>`_
+-	`ConditionType </en/iati-standard/203/codelists/ConditionType>`_
+-	`ContactType </en/iati-standard/203/codelists/ContactType>`_
+-	`DescriptionType </en/iati-standard/203/codelists/DescriptionType>`_
+-	`DisbursementChannel </en/iati-standard/203/codelists/DisbursementChannel>`_
+-	`DocumentCategory-category </en/iati-standard/203/codelists/DocumentCategory-category>`_
+-	`GeographicExactness </en/iati-standard/203/codelists/GeographicExactness>`_
+-	`GeographicLocationClass </en/iati-standard/203/codelists/GeographicLocationClass>`_
+-	`GeographicLocationReach </en/iati-standard/203/codelists/GeographicLocationReach>`_
+-	`GeographicVocabulary </en/iati-standard/203/codelists/GeographicVocabulary>`_
+-	`GeographicalPrecision </en/iati-standard/203/codelists/GeographicalPrecision>`_
+-	`IndicatorMeasure </en/iati-standard/203/codelists/IndicatorMeasure>`_
+-	`LoanRepaymentPeriod </en/iati-standard/203/codelists/LoanRepaymentPeriod>`_
+-	`LoanRepaymentType </en/iati-standard/203/codelists/LoanRepaymentType>`_
+-	`OrganisationType </en/iati-standard/203/codelists/OrganisationType>`_
+-	`OtherIdentifierType </en/iati-standard/203/codelists/OtherIdentifierType>`_
+-	`PolicyMarker </en/iati-standard/203/codelists/PolicyMarker>`_
+-	`PolicyMarkerVocabulary </en/iati-standard/203/codelists/PolicyMarkerVocabulary>`_
+-	`PublisherType </en/iati-standard/203/codelists/PublisherType>`_
+-	`RegionVocabulary </en/iati-standard/203/codelists/RegionVocabulary>`_
+-	`ResultType </en/iati-standard/203/codelists/ResultType>`_
+-	`SectorVocabulary </en/iati-standard/203/codelists/SectorVocabulary>`_
+-	`TiedStatus </en/iati-standard/203/codelists/TiedStatus>`_
+-	`VerificationStatus </en/iati-standard/203/codelists/VerificationStatus>`_
 
 New Codelists
 -------------
 
 **Non-Embedded:**
 
-- Added :doc:`/codelists/AidTypeVocabulary` Codelist (`#185 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/185>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
-- Added :doc:`/codelists/BudgetNotProvided` Codelist (`#184 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/184>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-budget-exempt-attribute-and-codelist-included-2-03/845>`__)
-- Added :doc:`/codelists/ResultVocabulary` Codelist (`#181 <https://github.com/IATI/IATI-Codelists/issues/181>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-vocabulary-attribute-option-included-2-03/879>`__)
-- Added :doc:`/codelists/TagVocabulary` Codelist (`#178 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/178>`__) (`Discussion link <https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849>`__)
+- Added `AidTypeVocabulary </en/iati-standard/203/codelists/AidTypeVocabulary>`_ Codelist (`#185 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/185>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
+- Added `BudgetNotProvided </en/iati-standard/203/codelists/BudgetNotProvided>`_ Codelist (`#184 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/184>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-budget-exempt-attribute-and-codelist-included-2-03/845>`__)
+- Added `ResultVocabulary </en/iati-standard/203/codelists/ResultVocabulary>`_ Codelist (`#181 <https://github.com/IATI/IATI-Codelists/issues/181>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-vocabulary-attribute-option-included-2-03/879>`__)
+- Added `TagVocabulary </en/iati-standard/203/codelists/TagVocabulary>`_ Codelist (`#178 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/178>`__) (`Discussion link <https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849>`__)
 
 Updated Codelists
 -----------------
 
 **Embedded:**
 
-- Added codes: 12 'Outgoing Pledge' and 13 'Incoming Pledge' to :doc:`/codelists/TransactionType` Codelist (`#112 <https://github.com/IATI/IATI-Codelists/issues/112>`__) (`Discussion link <https://discuss.iatistandard.org/t/transactiontype-codes-included-2-03/852>`__).
+- Added codes: 12 'Outgoing Pledge' and 13 'Incoming Pledge' to `TransactionType </en/iati-standard/203/codelists/TransactionType>`_ Codelist (`#112 <https://github.com/IATI/IATI-Codelists/issues/112>`__) (`Discussion link <https://discuss.iatistandard.org/t/transactiontype-codes-included-2-03/852>`__).
 
 **Non-Embedded:**
 
-- Added codes: 11 'Local Government', 24 'Partner Country based NGO', 71 'Private Sector in Provider Country', 71 'Private Sector in Aid Recipient Country', 73 'Private Sector in Third Country' and 90 'Other' to :doc:`/codelists/OrganisationType` Codelist (`#113 <https://github.com/IATI/IATI-Codelists/issues/113>`__) (`Discussion link <https://discuss.iatistandard.org/t/organisation-type-codes-additions-included-2-03/858>`__)
+- Added codes: 11 'Local Government', 24 'Partner Country based NGO', 71 'Private Sector in Provider Country', 71 'Private Sector in Aid Recipient Country', 73 'Private Sector in Third Country' and 90 'Other' to `OrganisationType </en/iati-standard/203/codelists/OrganisationType>`_ Codelist (`#113 <https://github.com/IATI/IATI-Codelists/issues/113>`__) (`Discussion link <https://discuss.iatistandard.org/t/organisation-type-codes-additions-included-2-03/858>`__)
 
-- Added codes: 3 'Nominal', 4 'Ordinal' and 5 'Qualitative' to :doc:`/codelists/IndicatorMeasure` Codelist (`#179 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/179>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
+- Added codes: 3 'Nominal', 4 'Ordinal' and 5 'Qualitative' to `IndicatorMeasure </en/iati-standard/203/codelists/IndicatorMeasure>`_ Codelist (`#179 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/179>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
 
-- Added Code 2.03 to :doc:`/codelists/Version` (`#238 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/238>`__)
+- Added Code 2.03 to `Version </en/iati-standard/203/codelists/Version>`_ (`#238 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/238>`__)
 
  .. _2_03_ruleset_changes:
 
