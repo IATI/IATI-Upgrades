@@ -29,7 +29,7 @@ The current process for upgrading the standard (details below) was agreed at the
 
 For information about different versions of the **IATI Standard** see :doc:`All versions <how-we-manage-the-standard/versions>`.
 
-Codelist changes: There are different types of codelist changes. Details of how the IATI codelists are managed are here (add in link).
+Codelist changes: There are different types of codelist changes. Details of how the IATI codelists are managed are :doc:`here <how-we-manage-the-standard/codelist-management>`.
 
 
 How to get involved and suggest changes: Any member of the IATI community can make a proposal (via `IATI Discuss <https://discuss.iatistandard.org/c/standard-management>`__). Suggestions for changes and enhancements across the Standard are accepted from all stakeholders. Each proposal will be assigned to the relevant category under Standard Management. The forums allow for a public exchange on the merits of the proposals to take place.
