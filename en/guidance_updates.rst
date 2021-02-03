@@ -18,7 +18,7 @@ For a full list of what falls under the normative and non-normative category as 
 Suggesting changes to the IATI Standard Publishing Guidance
 ------------------------------------------------------------
 
-Normative remains the same - changes are made following a clear process and sufficient notice, to ensure relevant stakeholders are involved. The `IATI upgrade process <https://iatistandard.org/en/iati-standard/upgrades/#>`__ presently assures this.
+Normative remains the same - changes are made following a clear process and sufficient notice, to ensure relevant stakeholders are involved. The `IATI upgrade process <https://iatistandard.org/en/iati-standard/upgrades>`__ presently assures this.
 
 Changes to non-normative content, such as the IATI Standard Publishing Guidance, can happen without triggering an upgrade governance process, and can be updated outside of a formal upgrade process, ensuring that changes do not conflict with normative content.
 
