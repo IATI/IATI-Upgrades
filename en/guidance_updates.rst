@@ -94,7 +94,7 @@ If any of the “discussion” issues is a request for a change that requires **
 Accessing a log of changes post-implementation
 ----------------------------------------------
 
-All changes implemented after the 3 month period will be viewed in the Github history log, which acts as a changelog. On each publishing guidance page (see `example for activity budgets <https://iatistandard.org/en/guidance/standard-guidance/activity-budgets/>`__), users will also be able to view the date when each page was last updated, and a direct link to the changes on Github.
+All changes implemented after the 3 month period will be viewed in the Github history log, which acts as a changelog. On each publishing guidance page (see `example for activity budgets <https://iatistandard.org/en/guidance/standard-guidance/activity-budgets>`__), users will also be able to view the date when each page was last updated, and a direct link to the changes on Github.
 
 .. meta::
   :order: 2
