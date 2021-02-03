@@ -22,7 +22,7 @@ Normative remains the same - changes are made following a clear process and suff
 
 Changes to non-normative content, such as the IATI Standard Publishing Guidance, can happen without triggering an upgrade governance process, and can be updated outside of a formal upgrade process, ensuring that changes do not conflict with normative content.
 
-Changes to the `IATI Standard Publishing Guidance <https://iatistandard.org/en/guidance/standard-guidance/>`__ can either be proposed by the Secretariat (e.g. in response to specific user feedback or changes needed to deliver on the IATI Strategic Plan) and then consulted with the IATI community, or proposed by the IATI community and then reviewed and considered by the Secretariat. The process for the community to propose changes to be reviewed and considered by the Secretariat is provided below.
+Changes to the `IATI Standard Publishing Guidance <https://iatistandard.org/en/guidance/standard-guidance>`__ can either be proposed by the Secretariat (e.g. in response to specific user feedback or changes needed to deliver on the IATI Strategic Plan) and then consulted with the IATI community, or proposed by the IATI community and then reviewed and considered by the Secretariat. The process for the community to propose changes to be reviewed and considered by the Secretariat is provided below.
 
 How to suggest changes to existing guidance pages
 -------------------------------------------------
