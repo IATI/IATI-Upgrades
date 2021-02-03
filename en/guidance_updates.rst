@@ -5,7 +5,7 @@ IATI Standard Publishing Guidance: How to suggest changes
 What information does the IATI Standard Publishing Guidance contain?
 --------------------------------------------------------------------
 
-The `IATI Standard Publishing Guidance <https://iatistandard.org/en/guidance/standard-guidance/>`__ helps explain and interpret the IATI Standard. The Standard is written in a technical language and does not contain much of the context of ‘why’ certain data is needed and when and how to use the different IATI elements and attributes. The Standard also contains some gaps and is open to interpretation, such as: should an organisation publish both an original and a revised budget?
+The `IATI Standard Publishing Guidance <https://iatistandard.org/en/guidance/standard-guidance>`__ helps explain and interpret the IATI Standard. The Standard is written in a technical language and does not contain much of the context of ‘why’ certain data is needed and when and how to use the different IATI elements and attributes. The Standard also contains some gaps and is open to interpretation, such as: should an organisation publish both an original and a revised budget?
 
 The `IATI Standard Publishing Guidance <https://iatistandard.org/en/guidance/standard-guidance>`__ helps address this, by adding context and filling in some of the gaps in the Standard. These pages fit in the **“non-normative”** content category as described below.
 
