@@ -39,7 +39,7 @@ The IATI Technical Team is responsible for reviewing and addressing any requests
 
 - Issues labelled as **“REQUIRES DISCUSSION/CONSULTATION”**. These issues can fall into two categories:
 
-  - Issues which require **no change to the interpretation to the Standard, but are additions or changes to the published guidance**. At the 6 month review period the Technical Team will review the discussion on Github and assess whether there is an agreement. We will also signpost/share via IATI Discuss *(specific category for this will be set up)* once the issue has been raised, so users can be alerted and can get involved if they wish to. Issues can also be raised directly on IATI Discuss under the relevant category. Following agreement, changes will then be made to the guidance by the Technical Team. More weight will be given to proposals supported by more community members. 
+  - Issues which require **no change to the interpretation to the Standard, but are additions or changes to the published guidance**. At the 6 month review period the Technical Team will review the discussion on Github and assess whether there is an agreement. We will also signpost/share via IATI Connect *(specific category for this will be set up)* once the issue has been raised, so users can be alerted and can get involved if they wish to. Issues can also be raised directly on IATI Connect under the relevant category. Following agreement, changes will then be made to the guidance by the Technical Team. More weight will be given to proposals supported by more community members. 
 
     **Note:** we propose that we need agreement of at least 10 community members.
 
