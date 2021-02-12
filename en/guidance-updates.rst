@@ -43,7 +43,7 @@ The IATI Technical Team is responsible for reviewing and addressing any requests
 
     **Note:** we propose that we need agreement of at least 10 community members.
 
-  - Issues which require **a change in how the Standard is interpreted** will require an additional community consultation. The issues raised will then be added to IATI Discuss and interested community members will be asked to feed in and join a scheduled webinar on the topic during the next 6 months.
+  - Issues which require **a change in how the Standard is interpreted** will require an additional community consultation. The issues raised will then be added to IATI Connect and interested community members will be asked to feed in and join a scheduled webinar on the topic during the next 6 months.
 
 The following provides examples to describe the different classifiers above:
 
