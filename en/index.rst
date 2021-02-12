@@ -15,3 +15,5 @@ The only part of the Standard which can be updated outside of a formal upgrade a
 Often these codelists are replicas of codelists managed externally. IATI will keep the codelists up to date and log all changes made to a codelist e.g. when the ISO Country Codelist updated the country name Swaziland to eSwatini.
 
 A changelog of the non-core codelists is available :doc:`here <upgrade-changelogs/noncore-codelist-changelog>`.
+
+See :doc:`Guidance Updates <guidance-updates>` for blah blah blah...
