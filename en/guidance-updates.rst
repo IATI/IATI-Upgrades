@@ -13,7 +13,7 @@ The `IATI Standard Publishing Guidance <https://iatistandard.org/en/guidance/sta
 
 - Non-normative: Non-normative content is the non-prescriptive, or ‘descriptive’, part of a standard. This may include explanations, illustrations, context, and examples. In the event non-normative content contradicts normative content, the normative content is to be followed.
 
-For a full list of what falls under the normative and non-normative category as part of the IATI standard, see `here https://iatistandard.org/en/guidance/developer/normative-content`__.
+For a full list of what falls under the normative and non-normative category as part of the IATI standard, see `here <https://iatistandard.org/en/guidance/developer/normative-content>`__.
 
 Suggesting changes to the IATI Standard Publishing Guidance
 ------------------------------------------------------------
