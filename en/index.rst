@@ -7,6 +7,8 @@ See :doc:`How we manage the standard <how-we-manage-the-standard>` to find out m
 
 See :doc:`Upgrade changelogs <upgrade-changelogs>` to find out the changes made at each upgrade.
 
+See :doc:`Guidance Updates <guidance-updates>` to find out how we make changes to our guidance documents that help explain the Standard. 
+
 Non-core codelists
 ------------------
 
@@ -16,4 +18,4 @@ Often these codelists are replicas of codelists managed externally. IATI will ke
 
 A changelog of the non-core codelists is available :doc:`here <upgrade-changelogs/noncore-codelist-changelog>`.
 
-See :doc:`Guidance Updates <guidance-updates>` for blah blah blah...
+
