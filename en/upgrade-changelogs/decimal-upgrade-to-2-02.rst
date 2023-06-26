@@ -36,7 +36,7 @@ The full process and timetable followed for the 2.02 Decimal Upgrade is outlined
 |              |                | off date.      |                |                |
 +--------------+----------------+----------------+----------------+----------------+
 | Suggestions  | The IATI       | Proposals going| Within 1 week  | 21 September   |
-|              | Technical Team | forward are    |                | 2015           |
+|              | Secretariat    | forward are    |                | 2015           |
 |              | agree which    | flagged as     |                |                |
 |              | proposals      | being 'under   |                |                |
 |              | should go      | consideration'.|                |                |

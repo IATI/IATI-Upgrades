@@ -37,12 +37,12 @@ Specific proposals and public consultations in the upgrade process are available
      - Friday 2 June 2017
    * - Suggestions
      - Saturday 3 June 2017
-     - The technical team review and agree which proposals should be considered for the upgrade. These are shared with the Community.
+     - The IATI Secretariat review and agree which proposals should be considered for the upgrade. These are shared with the Community.
      - Proposals going forward are flagged as being ‘under consideration’. The Community are invited to comment on these and may be contacted for more information on their views.
      - Friday 16 June 2017
    * - Consultation
      - Saturday 17 June 2017
-     - The technical team undergoes consultation with the Community.
+     - The IATI Secretariat undergoes consultation with the Community.
      - The Community can help refine the proposals and discuss in detail what has been included or left out.
      - Friday 7 July 2017
    * - Consultation
@@ -52,7 +52,7 @@ Specific proposals and public consultations in the upgrade process are available
      - Friday 28 July 2017
    * - Development and Inspection
      - Monday 30 October 2017
-     - The technical team will develop proposals and add them to a dedicated development branch of the schema (on GitHub).
+     - The IATI Secretariat will develop proposals and add them to a dedicated development branch of the schema (on GitHub).
      - The Community inspects and comments on the 2.03 changes on GitHub as they are being developed.
      - Friday 24 November 2017
    * - Release candidate

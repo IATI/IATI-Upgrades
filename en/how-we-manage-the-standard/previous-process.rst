@@ -59,7 +59,7 @@ All proposed changes, for Integer and Decimal Upgrades, will be published on the
 
 The entire process should be open to public scrutiny at all times.
 
-Anyone can make a proposal (via the `Modifications, Additions, Improvements section <http://support.iatistandard.org/forums/20020808-modifications-additions-improvements>`_), and each upgrade process receives it's own forum where proposals can be assigned. The forums allow for a public exchange on the merits of the proposals to take place. The IATI Technical Team will contribute to these exchanges and will draft proposals for the formal formats required for the standard.
+Anyone can make a proposal (via the `Modifications, Additions, Improvements section <http://support.iatistandard.org/forums/20020808-modifications-additions-improvements>`_), and each upgrade process receives it's own forum where proposals can be assigned. The forums allow for a public exchange on the merits of the proposals to take place. The IATI Secretariat will contribute to these exchanges and will draft proposals for the formal formats required for the standard.
 
 Minor Changes may take place with or without wider consultation. You can suggest a minor change directly to support@iatistandard.org
 
@@ -69,7 +69,7 @@ If you wish to discuss an idea before submitting a proposal you may wish to cons
 Decimal Upgrade Procedures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Clear cut off dates for proposals to be considered for a Decimal Upgrade will be advertised on the `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__. The IATI Technical Team will select those proposals meeting the above mentioned guidelines and prepare a proposed decimal upgrade on behalf of the IATI Secretariat. The contents of this proposed upgrade will be published on the Knowledge Base and all members and publishers of IATI data will be informed of its contents by email.
+Clear cut off dates for proposals to be considered for a Decimal Upgrade will be advertised on the `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__. The IATI Secretariat will select those proposals meeting the above mentioned guidelines and prepare a proposed decimal upgrade on behalf of the IATI Secretariat. The contents of this proposed upgrade will be published on the Knowledge Base and all members and publishers of IATI data will be informed of its contents by email.
 
 A timetable governing a process of consultation and implementation of the changes will be published.
 

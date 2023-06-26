@@ -6,7 +6,7 @@ Over time the IATI Standard needs to change and adapt, responding to the needs o
 Patches
 -------
 
-Patches (previously minor changes) can cover backwardly-compatible bug fixes. Changes are carried out by the Technical Team under the approval of the Secretariat.
+Patches (previously minor changes) can cover backwardly-compatible bug fixes. Changes are carried out by the IATI Secretariat under the approval of the Secretariat.
 
 Following version 3.0.0, each patch will have a version number.
 
@@ -54,11 +54,11 @@ Major and minor upgrades will be conducted in two distinct phases:
 
 2. **Technical implementation** (how). This refers to the translation of the content into the syntax required by schema/codelist/rule. How do we solve the problem?
 
-Wherever possible, decisions on changes to the standard should be reached by consensus. This means an absence of active dissent amongst those involved in the consultation process. If consensus cannot be reached the matter will be referred to the Governing Board for its assistance in resolving the dispute. The Governing Board, taking note of advice from the TAG chair and the Technical Lead, may adjudicate on an unresolved dispute.
+Wherever possible, decisions on changes to the standard should be reached by consensus. This means an absence of active dissent amongst those involved in the consultation process. If consensus cannot be reached the matter will be referred to the Governing Board for its assistance in resolving the dispute. The Governing Board, taking note of advice from the TAG chair, may adjudicate on an unresolved dispute.
 
 **Timeline**
 
-The Governing Board will approve a timeline for each upgrade prepared by the technical team. The timeline will consist of the following phases:
+The Governing Board will approve a timeline for each upgrade prepared by the IATI Secretariat. The timeline will consist of the following phases:
 
 1. **Content consultation**
 	a. Proposals are submitted and discussed by the community on. (Consultations mentioned in all phases can be conducted on `IATI Discuss <https://discuss.iatistandard.org/c/standard-management>`__, conference calls and meetings of the TAG.)
@@ -68,7 +68,7 @@ The Governing Board will approve a timeline for each upgrade prepared by the tec
 	b. The final content is submitted to the Governing Board (minor) or Members’ Assembly (major) for approval or resolution.
 
 3. **Technical consultation**
-	a. The technical team and community technical experts translate the agreed content into the syntax of the Standard.
+	a. The IATI Secretariat and community technical experts translate the agreed content into the syntax of the Standard.
 	b. Consultations take place on the technical proposals.
 
 4. **Technical approval**
@@ -76,8 +76,8 @@ The Governing Board will approve a timeline for each upgrade prepared by the tec
 	b. The final content is submitted to the Governing Board for approval or resolution.
 
 5. **Technical Implementation**
-	a. The technical team creates a new candidate version of the standard.
-	b. The technical team updates all utilities and services maintained by IATI to be compatible with the new version.
+	a. The IATI Secretariat creates a new candidate version of the standard.
+	b. The IATI Secretariat updates all utilities and services maintained by IATI to be compatible with the new version.
 	c. The candidate version is made available to the community for publisher and user testing.
 
 6. **Final Approval**
