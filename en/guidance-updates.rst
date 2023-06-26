@@ -27,19 +27,19 @@ Changes to the `IATI Standard Publishing Guidance <https://iatistandard.org/en/g
 How to suggest changes to existing guidance pages
 -------------------------------------------------
 
-All IATI Publishing Guidance pages are stored and managed in the `IATI-Guidance Github repository <https://github.com/IATI/IATI-Guidance>`__. If you notice an error, or would like to add a comment about a guidance page, you can raise a `GitHub issue <https://github.com/IATI/IATI-Guidance/issues/new>`__. Any issues added by community members directly to Github will be reviewed **bi-weekly** by the IATI Technical Team and labelled a *‘bug’*, *‘clarification’* or *‘discussion’*. If users are not familiar with Github and would still like to comment or raise an issue, they can contact the Technical Team via the IATI Helpdesk (support@iatistandard.org) in the first instance. The Technical Team will ensure that your issue/feedback has been addressed and shared publicly.
+All IATI Publishing Guidance pages are stored and managed in the `IATI-Guidance Github repository <https://github.com/IATI/IATI-Guidance>`__. If you notice an error, or would like to add a comment about a guidance page, you can raise a `GitHub issue <https://github.com/IATI/IATI-Guidance/issues/new>`__. Any issues added by community members directly to Github will be reviewed **bi-weekly** by the IATI Secretariat and labelled a *‘bug’*, *‘clarification’* or *‘discussion’*. If users are not familiar with Github and would still like to comment or raise an issue, they can contact the IATI Secretariat via the IATI Helpdesk (support@iatistandard.org) in the first instance. The IATI Secretariat will ensure that your issue/feedback has been addressed and shared publicly.
 
 
 Review of proposed changes and timelines for implementation
 -----------------------------------------------------------
 
-The IATI Technical Team is responsible for reviewing and addressing any requests and issues raised on Github. In line with best practice, requests will be dealt with in batches, to ensure proper quality assurance, **every 6 months (except for bugs/clarifications)**.
+The IATI Secretariat is responsible for reviewing and addressing any requests and issues raised on Github. In line with best practice, requests will be dealt with in batches, to ensure proper quality assurance, **every 6 months (except for bugs/clarifications)**.
 
 - Issues labelled as **“BUGS”** and **“CLARIFICATIONS”** - any bugs or clarifications will be addressed and incorporated into the relevant guidance pages at the 3 month review period.
 
 - Issues labelled as **“REQUIRES DISCUSSION/CONSULTATION”**. These issues can fall into two categories:
 
-  - Issues which require **no change to the interpretation to the Standard, but are additions or changes to the published guidance**. At the 6 month review period the Technical Team will review the discussion on Github and assess whether there is an agreement. We will also signpost/share via IATI Connect *(specific category for this will be set up)* once the issue has been raised, so users can be alerted and can get involved if they wish to. Issues can also be raised directly on IATI Connect under the relevant category. Following agreement, changes will then be made to the guidance by the Technical Team. More weight will be given to proposals supported by more community members. 
+  - Issues which require **no change to the interpretation to the Standard, but are additions or changes to the published guidance**. At the 6 month review period the IATI Secretariat will review the discussion on Github and assess whether there is an agreement. We will also signpost/share via IATI Connect *(specific category for this will be set up)* once the issue has been raised, so users can be alerted and can get involved if they wish to. Issues can also be raised directly on IATI Connect under the relevant category. Following agreement, changes will then be made to the guidance by the IATI Secretariat. More weight will be given to proposals supported by more community members. 
 
     **Note:** we propose that we need agreement of at least 10 community members.
 
