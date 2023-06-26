@@ -54,7 +54,7 @@ Major and minor upgrades will be conducted in two distinct phases:
 
 2. **Technical implementation** (how). This refers to the translation of the content into the syntax required by schema/codelist/rule. How do we solve the problem?
 
-Wherever possible, decisions on changes to the standard should be reached by consensus. This means an absence of active dissent amongst those involved in the consultation process. If consensus cannot be reached the matter will be referred to the Governing Board for its assistance in resolving the dispute. The Governing Board, taking note of advice from the TAG chair and the Technical Lead, may adjudicate on an unresolved dispute.
+Wherever possible, decisions on changes to the standard should be reached by consensus. This means an absence of active dissent amongst those involved in the consultation process. If consensus cannot be reached the matter will be referred to the Governing Board for its assistance in resolving the dispute. The Governing Board, taking note of advice from the TAG chair, may adjudicate on an unresolved dispute.
 
 **Timeline**
 

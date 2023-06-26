@@ -22,7 +22,7 @@ Changes to some or all of those parts of the standard will be driven by the sugg
 
 **Upgrade process:**
 
-- Minor (previously decimal) upgrades can be initiated by the `Governing Board <https://iatistandard.org/en/about/governance/who-runs-iati/>`__, following advice from Board Technical Focal Points and the Technical Lead.
+- Minor (previously decimal) upgrades can be initiated by the `Governing Board <https://iatistandard.org/en/about/governance/who-runs-iati/>`__, following advice from Board Technical Focal Points.
 - Major upgrades can be initiated by the `Members’ Assembly <https://iatistandard.org/en/about/join-iati/members-assembly/>`__, following the advice from the Governing Board.
 
 The current process for upgrading the standard (details below) was agreed at the `2017 Members’ Assembly <https://iatistandard.org/documents/242/Paper-10-Proposed-revisions-to-the-IATI-Standard-upgrade-process.pdf>`__. For the previous upgrade process please see the `Previous Upgrade Process <http://iatistandard.org/upgrades/all-versions/previous-process>`__ page.
