@@ -48,10 +48,10 @@ Non-Core Codelists are managed via GitHub at: https://github.com/IATI/IATI-Codel
 
 Codes in Non-Core Codelists may be:
 
-- Added - at any point in time, subject to applicable notification and/or consultation via `IATI Discuss  <https://discuss.iatistandard.org/c/standard-management/non-embedded-codelist-amendments>`__
-- Modified - at any point in time, subject to applicable notification and/or consultation via `IATI Discuss <https://discuss.iatistandard.org/c/standard-management/non-embedded-codelist-amendments>`__
-- Withdrawn - at any point in time, subject to applicable notification and/or consultation via `IATI Discuss <https://discuss.iatistandard.org/c/standard-management/non-embedded-codelist-amendments>`__
-- Removed - at a Major Upgrade, through the applicable consultation process via `IATI Discuss <https://discuss.iatistandard.org/c/standard-management/non-embedded-codelist-amendments>`__
+- Added - at any point in time, subject to applicable notification and/or consultation via `IATI Connect <https://www.iaticonnect.org/group/standard-management-consultations-0>`__
+- Modified - at any point in time, subject to applicable notification and/or consultation via `IATI Connect <https://www.iaticonnect.org/group/standard-management-consultations-0>`__
+- Withdrawn - at any point in time, subject to applicable notification and/or consultation via `IATI Connect <https://www.iaticonnect.org/group/standard-management-consultations-0>`__
+- Removed - at a Major Upgrade, through the applicable consultation process via `IATI Connect <https://www.iaticonnect.org/group/standard-management-consultations-0>`__
 
 Examples of Non-Core Codelists include: Sector Vocabulary, Condition Type, Result Type.
 
